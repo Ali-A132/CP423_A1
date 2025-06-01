@@ -8,6 +8,8 @@
 
 from cp423_assignment1_question2 import InvertedIndex
 
+# was not able to solve
+# my approach was to convert the query to a post fix expression to solve, was not able to figure out successfully but that was my guess 
 def evaluateQuery(post, docIdList):
     stack = []
 

@@ -15,6 +15,7 @@ from nltk.tokenize import word_tokenize
 
 nltk.download('stopwords')
 
+# preprocess text through making it lowercase, having it be alphanumerical and remove stopwords + single length chars
 def preprocess(text):
     text = text.lower()
     text = ''.join(t for t in text if t.isalnum() or t.isspace())
@@ -25,11 +26,15 @@ def preprocess(text):
 
     return filtered
 
+# create data structure for inverted index
 class InvertedIndex:
     def __init__(self):
-        self.index = defaultdict(set)
+        self.index = defaultdict(set) # initialized empty dictionary
 
-    def createInvertedIndex(self, folder):        
+
+    def createInvertedIndex(self, folder): 
+
+        # iterate through files in scrappedInfo and store every word in index along with document frequency
         for filename in os.listdir(folder):
             filePath = os.path.join(folder, filename)
             with open(filePath, 'r', encoding='utf-8') as f:
@@ -38,18 +43,21 @@ class InvertedIndex:
             parts = filename.split('_')
             fileId = 0
 
+            # get file id
             for i in range(len(parts)):
                 if parts[i] == "id":
                     fileId = int(parts[i + 1].split('.')[0])
                     break
 
+            # store word + document id
             words = preprocess(text)
             for word in words:
                 self.index[word].add(fileId)
 
         for word in self.index:
             self.index[word] = sorted(list(self.index[word]))
-    
+
+# create inverted index and provide directory
 invertedIndex = InvertedIndex()
 invertedIndex.createInvertedIndex("scrappedInfo")
 

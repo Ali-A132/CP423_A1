@@ -21,7 +21,7 @@ From my code, you can see the preprocess function makes the text lower case, onl
 
 Next we create a data structure to represent the inverted index so we initialise it with a dictionary and make a creation method that essentially iterates through our scrappedInfo folder and for each file we preprocess it and add the word into our index by name and document frequency which is why we take the id from the file name itself. We then sort this in this final loop since an inverted index has to be in ascending order. 
 
-We can test by running this python file where we initiate an inverted index and provide it the scrapped info directory. This will give us all the words used across each document and their respective documents they appeared in. We can verify this with the VS Code search
+We can test by running the python file where we initiate an inverted index and provide it the scrapped info directory. This will give us all the words used across each document and their respective documents they appeared in. We can verify this with the VS Code search
 
 ### **Part Three: Query Support and System Evaluation** NOT SOLVED
 
