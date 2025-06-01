@@ -79,7 +79,7 @@ def extractHyperlinks(link, depth, maxDepth, folder):
         for child in childLinks:
             extractHyperlinks(child, depth + 1, maxDepth, folder)
 
-# given directory, this file will create a new folder that downloads up to 5 articles across each depth (31 total)
+# given directory, this file will create a new folder that downloads up to 5 articles across each depth (depth limit of 3 so 31 total articles visited)
 folder = "scrappedInfo"
 os.makedirs(folder, exist_ok=True)
 
