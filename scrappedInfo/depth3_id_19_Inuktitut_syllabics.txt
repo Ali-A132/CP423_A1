@@ -1,0 +1,817 @@
+From Wikipedia, the free encyclopedia
+Abugida-type writing system used in Canada
+Inuktitut syllabics
+Inuktitut
+syllabary
+. Extra characters with dots represent long vowels; When romanised, the vowel is duplicated.
+Script type
+Abugida
+Period
+1870s–present
+Direction
+Left-to-right
+Languages
+Inuktitut
+Related scripts
+Parent systems
+Cree syllabics
+Canadian Aboriginal syllabics
+Inuktitut syllabics
+ISO 15924
+ISO 15924
+Cans
+(440)
+, ​Unified Canadian Aboriginal Syllabics
+Unicode
+Unicode alias
+Canadian Aboriginal
+Unicode range
+Unified Canadian Aboriginal Syllabics, U+1400–167F (
+chart
+)
+This article contains
+phonetic transcriptions
+in the
+International Phonetic Alphabet
+(IPA)
+. For an introductory guide on IPA symbols, see
+Help:IPA
+. For the distinction between
+[ ]
+,
+/ /
+and ⟨
+⟩, see
+IPA § Brackets and transcription delimiters
+.
+This article contains
+Canadian Aboriginal syllabic characters
+.
+Without proper
+rendering support
+, you may see
+question marks, boxes, or other symbols
+instead of syllabics.
+A bilingual
+stop sign
+in
+Nunavut
+displaying text in both Inuktitut syllabics and the English
+Latin alphabet
+. The Inuktitut
+ᓄᖅᑲᕆᑦ
+transliterates as
+nuqqarit
+.
+[
+1
+]
+Inuktitut syllabics
+(
+Inuktitut
+:
+ᖃᓂᐅᔮᖅᐸᐃᑦ
+,
+romanized
+:
+qaniujaaqpait
+,
+[
+2
+]
+or
+ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ
+,
+titirausiq nutaaq
+) is an
+abugida
+-type
+writing system
+used in Canada by the
+Inuktitut
+-speaking
+Inuit
+of the
+territory
+of
+Nunavut
+and the
+Nunavik
+region of
+Quebec
+. In 1976, the Language Commission of the Inuit Cultural Institute made it the co-official script for the
+Inuit languages
+, along with the
+Latin script
+.
+The name
+qaniujaaqpait
+[qaniujaːqpaˈit]
+derives from the root
+qaniq
+, meaning "mouth". The alternative, Latin-based writing system is named
+qaliujaaqpait
+(
+ᖃᓕᐅᔮᖅᐸᐃᑦ
+), and it derives from
+qaliit
+, a word describing the markings or the grain in rocks.
+Titirausiq nutaaq
+[titiʁauˈsiq
+nuˈtaːq]
+meaning "new writing system" is to be seen in contrast to
+titirausiit nutaunngittut
+(
+ᑎᑎᕋᐅᓰᑦ ᓄᑕᐅᓐᖏᑦᑐᑦ
+), the "old syllabics" used before the reforms of 1976.
+[
+3
+]
+Inuktitut is one variation on
+Canadian Aboriginal syllabics
+, and can be digitally encoded using the
+Unicode
+standard.  The
+Unicode block
+for Inuktitut characters is called
+Unified Canadian Aboriginal Syllabics
+.
+[
+citation needed
+]
+History
+[
+edit
+]
+The first efforts to write Inuktitut came from
+Moravian
+missionaries in
+Greenland
+and
+Labrador
+in the mid-19th century using Latin script. The first book printed in Inuktitut using
+Cree script
+was an 8-page pamphlet known as
+Selections from the
+Gospels
+in the dialect of the Inuit of
+Little Whale River
+(
+ᒋᓴᓯᑊ ᐅᑲᐤᓯᐣᑭᐟ
+, "Jesus' words"),
+[
+4
+]
+printed by
+John Horden
+in 1855–56 at
+Moose Factory
+for Edwin Arthur Watkins to use among the Inuit at
+Fort George
+. In November 1865, Horden and Watkins met in London under
+Henry Venn
+'s direction to adapt
+Cree syllabics
+to the Inuktitut language.
+[
+5
+]
+In the 1870s,
+Edmund Peck
+, another
+Anglican
+missionary, started printing according to that standard. Other missionaries, and later linguists in the employ of the
+Canadian
+and
+American
+governments, adapted the Latin alphabet to the dialects of the
+Mackenzie River
+delta, the western
+Arctic islands
+and
+Alaska
+.
+Table
+[
+edit
+]
+This section
+needs additional citations for
+verification
+.
+Please help
+improve this article
+by
+adding citations to reliable sources
+in this section. Unsourced material may be challenged and removed.
+Find sources:
+"Inuktitut syllabics"
+–
+news
+·
+newspapers
+·
+books
+·
+scholar
+·
+JSTOR
+(
+December 2023
+)
+(
+Learn how and when to remove this message
+)
+The Inuktitut script (
+titirausiq nutaaq
+) is commonly presented as a
+syllabary
+. The dots on the letters in the table mark
+long vowels
+; in the Latin transcription, the vowel is doubled.
+[
+A
+]
+For
+geminate consonants
+, the final consonant symbol is placed before the CV syllabic, for instance
+-
+kk
+u-, -
+nnu
+-
+are rendered
+ᒃ
+ᑯ and
+ᓐ
+ᓄ respectively.
+Note: An
+image of the chart
+is also available.
+Inuktitut syllabary
+[
+1
+]
+[
+6
+]
+[
+7
+]
+[
+additional citation(s) needed
+]
+Vowel (
+IPA
+)
+Final (no vowel)
+/
+a
+i
+/
+[
+a
+]
+/
+i
+/
+/
+u
+/
+/
+a
+/
+Short
+Trans.
+Short
+Long
+Trans.
+Short
+Long
+Trans.
+Short
+Long
+Trans.
+Trans.
+IPA
+ᐁ
+ai
+ᐃ
+ᐄ
+i
+ᐅ
+ᐆ
+u
+ᐊ
+ᐋ
+a
+—
+—
+—
+ᐯ
+pai
+ᐱ
+ᐲ
+pi
+ᐳ
+ᐴ
+pu
+ᐸ
+ᐹ
+pa
+ᑉ
+p
+/
+p
+/
+ᑌ
+tai
+ᑎ
+ᑏ
+ti
+ᑐ
+ᑑ
+tu
+ᑕ
+ᑖ
+ta
+ᑦ
+t
+/
+t
+/
+ᑫ
+kai
+ᑭ
+ᑮ
+ki
+ᑯ
+ᑰ
+ku
+ᑲ
+ᑳ
+ka
+ᒃ
+k
+/
+k
+/
+ᕴ
+hai
+ᕵ
+ᕶ
+hi
+ᕷ
+ᕸ
+hu
+ᕹ
+ᕺ
+ha
+ᕻ
+h
+[
+b
+]
+/
+h
+/
+ᒉ
+gai
+ᒋ
+ᒌ
+gi
+ᒍ
+ᒎ
+gu
+ᒐ
+ᒑ
+ga
+ᒡ
+g
+/
+ɡ
+/
+-
+/
+ɣ
+/
+ᒣ
+mai
+ᒥ
+ᒦ
+mi
+ᒧ
+ᒨ
+mu
+ᒪ
+ᒫ
+ma
+ᒻ
+m
+/
+m
+/
+ᓀ
+nai
+ᓂ
+ᓃ
+ni
+ᓄ
+ᓅ
+nu
+ᓇ
+ᓈ
+na
+ᓐ
+n
+/
+n
+/
+ᓭ
+sai
+ᓯ
+ᓰ
+si/hi
+ᓱ
+ᓲ
+su/hu
+ᓴ
+ᓵ
+sa/ha
+ᔅ
+s/h
+[
+c
+]
+/
+s
+/
+-
+/
+h
+/
+𑪶
+𑪷
+ši
+𑪸
+𑪹
+šu
+𑪺
+𑪻
+ša
+š
+[
+d
+]
+/
+ʂ
+/
+𑪰
+𑪱
+hi
+𑪲
+𑪳
+hu
+𑪴
+𑪵
+ha
+h
+[
+e
+]
+/
+h
+/
+ᓓ
+lai
+ᓕ
+ᓖ
+li
+ᓗ
+ᓘ
+lu
+ᓚ
+ᓛ
+la
+ᓪ
+l
+/
+l
+/
+ᔦ
+jai
+ᔨ
+ᔩ
+ji
+ᔪ
+ᔫ
+ju
+ᔭ
+ᔮ
+ja
+ᔾ
+j
+/
+j
+/
+ᑦᔦ
+jjai
+ᑦᔨ
+ᑦᔩ
+jji
+ᑦᔪ
+ᑦᔫ
+jju
+ᑦᔭ
+ᑦᔮ
+jja
+ᑦᔾ
+jj
+/
+j
+ː
+/
+ᖨ
+ᖩ
+ři
+ᖪ
+ᖫ
+řu
+ᖬ
+ᖭ
+řa
+ᖮ
+ř
+[
+f
+]
+/
+ɟ
+/
+ᕓ
+vai
+ᕕ
+ᕖ
+vi
+ᕗ
+ᕘ
+vu
+ᕙ
+ᕚ
+va
+ᕝ
+v
+/
+v
+/
+ᕂ
+rai
+ᕆ
+ᕇ
+ri
+ᕈ
+ᕉ
+ru
+ᕋ
+ᕌ
+ra
+ᕐ
+r
+/
+ʁ
+/
+ᙯ
+qai
+ᕿ
+ᖀ
+qi
+ᖁ
+ᖂ
+qu
+ᖃ
+ᖄ
+qa
+ᖅ
+q
+/
+q
+/
+ᖅᑫ
+qqai
+ᖅᑭ
+ᖅᑮ
+qqi
+ᖅᑯ
+ᖅᑰ
+qqu
+ᖅᑲ
+ᖅᑳ
+qqa
+ᖅᒃ
+qq
+[
+g
+]
+/
+q
+ː
+/
+ᙰ
+ngai
+ᖏ
+ᖐ
+ngi
+ᖑ
+ᖒ
+ngu
+ᖓ
+ᖔ
+nga
+ᖕ
+[
+h
+]
+ng
+[
+i
+]
+/
+ŋ
+/
+ᙱ
+ᙲ
+nngi
+ᙳ
+ᙴ
+nngu
+ᙵ
+ᙶ
+nnga
+ᖖ
+[
+j
+]
+nng
+[
+k
+]
+[
+C
+]
+/
+ŋ
+ː
+/
+ᖠ
+ᖡ
+łi
+ᖢ
+ᖣ
+łu
+ᖤ
+ᖥ
+ła
+ᖦ
+ł
+[
+l
+]
+/
+ɬ
+/
+ᖯ
+b
+[
+m
+]
+/
+b
+/
+ᕼ
+[
+D
+]
+h
+[
+n
+]
+/
+h
+/
+ᑊ
+ʼ
+/
+ʔ
+/
+^
+Found in
+Nunavik
+(
+ᓄᓇᕕᒃ
+)
+^
+Found in Nunavik (
+ᓄᓇᕕᒃ
+)
+^
+s
+in eastern
+Nunavut
+but
+h
+in western Nunavut
+^
+Found in
+Natsilingmiutut
+(
+ᓇᑦᓯᖕᒥᐅᑐᑦ
+)
+^
+Found in Natsilingmiutut (
+ᓇᑦᓯᖕᒥᐅᑐᑦ
+)
+^
+Found in Natsilingmiutut (
+ᓇᑦᓯᖕᒥᐅᑐᑦ
+)
+^
+Found in Nunavut (
+ᓄᓇᕗᑦ
+)
+[
+B
+]
+^
+ᖕ is a ᓐᒡ ligature in most areas but a ᓐᒃ ligature in Nunavik
+[
+8
+]
+[
+9
+]
+(which may resemble
+8
+)
+[
+citation needed
+]
+^
+These are generally romanized as
+ng
+, but in Natsilingmiutut as
+ŋ
+^
+ᖖ is a ᓐᓐᒡ ligature in most areas but either a ᓐᓐᒃ ligature or a doubled ᓐᒃ (ᓐᒃᓐᒃ) ligature in Nunavik
+[
+9
+]
+(which may resemble ᓐ
+8
+or
+88
+, respectively)
+[
+citation needed
+]
+^
+These are generally romanized as
+nng
+, but in Natsilingmiutut as
+ŋŋ
+^
+Found in North Qikiqtaaluk, Natsilingmiutut,
+Aivilingmiutut
+and
+Paallirmiutut
+; occasionally transcribed as
+&
+^
+Found in Aivilingmiutut
+^
+Found in Nunavut (
+ᓄᓇᕗᑦ
+)
+Modifications
+[
+edit
+]
+The
+Makivik Corporation
+expanded the official version of the script to restore the
+ai-pai-tai
+column. The common
+diphthong
+ai
+has generally been represented by combining the
+a
+form with a stand-alone letter ᐃ
+i.
+[
+example needed
+]
+This fourth-vowel variant had been removed so that Inuktitut could be typed and printed using
+IBM
+Selectric balls
+in the 1970s. The reinstatement was justified on the grounds that modern printing and typesetting equipment no longer suffers the restrictions of earlier typewriting machinery. The
+ai-pai-tai
+column is used only in Nunavik.
